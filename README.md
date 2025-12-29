@@ -1,6 +1,8 @@
 # Field-Deployed Engineer Showcase
 
-![Architecture](./docs/architecture.png)
+![Overview](./docs/overview.png)
+
+> Case study structure used across customer engagements.
 
 [![CI](https://github.com/cmangun/field-deployed-engineer-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/cmangun/field-deployed-engineer-showcase/actions/workflows/ci.yml)
 [![Docs](https://img.shields.io/badge/docs-case%20studies-blue?style=flat-square)]()
