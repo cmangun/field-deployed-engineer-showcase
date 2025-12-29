@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-01",
+  "caseStudies": [
+    {
+      "id": "pfizer-cocreate",
+      "title": "Enterprise AI Knowledge Platform",
+      "file": "case-studies/pfizer-cocreate.md",
+      "industry": "Pharmaceutical",
+      "technologies": ["RAG", "Azure ML", "Graph-RAG", "AKS"],
+      "highlights": ["98% faster content discovery", "2.3× asset reuse", "35% faster compliance"]
+    },
+    {
+      "id": "abbott-alinity",
+      "title": "ML Pipeline Cloud Migration",
+      "file": "case-studies/abbott-alinity.md",
+      "industry": "Healthcare/Medical Devices",
+      "technologies": ["AWS", "Azure ML", "HIPAA", "FDA"],
+      "highlights": ["Zero audit findings", "6 months to 3 weeks deployment"]
+    },
+    {
+      "id": "ipg-sharepoint",
+      "title": "Enterprise Platform Consolidation",
+      "file": "case-studies/ipg-sharepoint.md",
+      "industry": "Marketing/Healthcare",
+      "technologies": ["Azure", "SharePoint", "DevOps"],
+      "highlights": ["99.9% uptime", "60% cost reduction"]
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "runbook-example",
+      "title": "Runbook Template Example",
+      "file": "artifacts/runbook-example.md",
+      "type": "operational"
+    },
+    {
+      "id": "postmortem-example",
+      "title": "Postmortem Template Example",
+      "file": "artifacts/postmortem-example.md",
+      "type": "operational"
+    },
+    {
+      "id": "adr-example",
+      "title": "Architecture Decision Record Example",
+      "file": "artifacts/adr-example.md",
+      "type": "architecture"
+    }
+  ],
+  "repositories": [
+    "enterprise-llm-integration",
+    "fde-deployment-patterns",
+    "secure-workflow-orchestration",
+    "llm-observability-dashboards",
+    "regulated-data-pipelines",
+    "fde-reference-architectures",
+    "hybrid-connectivity-bridge",
+    "deployable-ai-agents"
+  ]
+}
