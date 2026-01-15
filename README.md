@@ -12,7 +12,7 @@ Case studies and artifacts from forward-deployed AI engineering engagements.
 
 ---
 
-## 🚀 Browse in 60 Seconds
+## Browse in 60 Seconds
 
 ```bash
 git clone https://github.com/cmangun/field-deployed-engineer-showcase.git
@@ -24,7 +24,7 @@ cat case-studies/pfizer-cocreate.md
 
 ---
 
-## 📊 Customer Value
+## Customer Value
 
 These case studies demonstrate:
 - **35% faster** compliance reviews (ML automation)
